@@ -1,0 +1,46 @@
+/* css document */
+
+.container
+{
+    margin: 85px auto;
+    width: 80%;
+    padding: 5px;
+}
+
+
+img
+{
+  float: left;
+  width: 550px;
+  height: 770px;
+  padding:  0 20px 0  ;
+}
+
+.text
+{
+   
+    padding-left: 5px;
+    text-align: justify;
+    font-family: verdana;
+}
+
+header {
+ 
+    padding: 5px;
+    margin-top: 0;
+    margin-left:15px
+}
+
+body {
+  background-image: url("light-live-background-css.jpg");
+  
+  }
+  
+  span {
+    font-size:20px;
+    align: center;
+  }
+  
+  span2{
+    font-size:50px;
+  }
